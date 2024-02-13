@@ -15,7 +15,7 @@ const Body2 = () => {
             <section className='bg-gray-500 rounded-2xl'>
                 <div className='p-4 md:p-10'>
                     <div className='mb-4 md:mb-0'>
-                        <video autoPlay loop muted className="w-full md:h-72 rounded-xl">
+                        <video autoPlay loop muted className="w-full md:h-52 rounded-xl">
                             <source src="/ProjectBoard.mov" type="video/mp4" />
                         </video>
                     </div>

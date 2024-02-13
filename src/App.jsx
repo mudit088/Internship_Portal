@@ -6,6 +6,8 @@ import Navbar from './Components/Navbar'
 import About from './Components/About'
 import Body from './Components/Body'
 import Body2 from './Components/Body2'
+import Body3 from './Components/Body3'
+import Footer from './Components/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,6 +18,8 @@ function App() {
       <About/>
       <Body/>
       <Body2/>
+      <Body3/>
+      <Footer/>
     </>
   )
 }
