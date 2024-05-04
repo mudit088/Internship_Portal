@@ -37,7 +37,7 @@ const Body3 = () => {
 
             <button className='border-1 cursor-default hover:scale-105 duration-300 m-2 md:m-10'>
                 <div className='flex justify-center items-center'>
-                    <img src="/image (3).svg" alt="" className='h-14 md:h-24' />
+                    <img src="/image (3).svg" alt="" className='h-13 md:h-24' />
                 </div>
                 <p className='font-semibold text-lg p-2'>OFFER LETTER</p>
                 <p className='font-semibold text-md'>Start your first project to generate your <br /> offer letter</p>
